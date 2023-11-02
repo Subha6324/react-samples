@@ -1,0 +1,20 @@
+.secdiv
+{
+    text-align: center;
+    background-color: aqua;
+}
+.mydiv
+{
+    border: 10px solid black;
+    width: 500px;
+    height:200px;
+    padding:20px;
+    background-color: azure;
+    margin: auto;
+    
+}
+.third
+{
+    text-align: center;
+    margin:auto;
+}
